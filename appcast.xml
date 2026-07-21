@@ -3,6 +3,14 @@
     <channel>
         <title>Treekey</title>
         <item>
+            <title>1.5.0</title>
+            <pubDate>Tue, 21 Jul 2026 23:21:12 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.5.0/Treekey-1.5.0.zip" length="13543401" type="application/octet-stream" sparkle:edSignature="eAmr7Fu+FWIdCWAwpArWK+ciyAjVciOCeHy1CtkRG6Xc3mYQKSv26AZdgt/VMmhyz60DlTGRwQHyH7t4e5j5Bw=="/>
+        </item>
+        <item>
             <title>1.4.1</title>
             <pubDate>Mon, 20 Jul 2026 21:05:00 +0200</pubDate>
             <sparkle:version>20</sparkle:version>
