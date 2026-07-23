@@ -8,7 +8,7 @@
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.5.1/Treekey-1.5.1.zip" length="13548534" type="application/octet-stream" sparkle:edSignature="qTRqMsVTK9lY41U8RT7RN+wyR8S8czL9OIVoAjhcRVEvZnN2x0T733Kt9JadGzidSCgVLaCtgyqnBMRDQwKhCA=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.5.1/Treekey-1.5.1.zip" length="13548534" type="application/octet-stream" sparkle:edSignature="qTRqMsVTK9lY41U8RT7RN+wyR8S8czL9OIVoAjhcRVEvZnN2x0T733Kt9JadGzidSCgVLaCtgyqnBMRDQwKhCA=="/>
         </item>
         <item>
             <title>1.5.0</title>
@@ -16,7 +16,7 @@
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.5.0/Treekey-1.5.0.zip" length="13543401" type="application/octet-stream" sparkle:edSignature="eAmr7Fu+FWIdCWAwpArWK+ciyAjVciOCeHy1CtkRG6Xc3mYQKSv26AZdgt/VMmhyz60DlTGRwQHyH7t4e5j5Bw=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.5.0/Treekey-1.5.0.zip" length="13543401" type="application/octet-stream" sparkle:edSignature="eAmr7Fu+FWIdCWAwpArWK+ciyAjVciOCeHy1CtkRG6Xc3mYQKSv26AZdgt/VMmhyz60DlTGRwQHyH7t4e5j5Bw=="/>
         </item>
         <item>
             <title>1.4.1</title>
@@ -24,7 +24,7 @@
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.4.1/Treekey-1.4.1.zip" length="13077185" type="application/octet-stream" sparkle:edSignature="Rqf9p20r69P+f5YrwXDh2xyprA7WKjxEp5H6JGwQhm3fWYzjdtiGyugESk83iYjEZ66yQl87TC8OhrooiaQNDQ=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.4.1/Treekey-1.4.1.zip" length="13077185" type="application/octet-stream" sparkle:edSignature="Rqf9p20r69P+f5YrwXDh2xyprA7WKjxEp5H6JGwQhm3fWYzjdtiGyugESk83iYjEZ66yQl87TC8OhrooiaQNDQ=="/>
         </item>
         <item>
             <title>1.4.0</title>
@@ -32,7 +32,7 @@
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.4.0/Treekey-1.4.0.zip" length="13062480" type="application/octet-stream" sparkle:edSignature="W5lh9khFWntV48vk5dukRvf2jgo6pFE8SHBEOYeuSpzfpF0PSWNVLDHdWjS5im8/7OBM0yyoWn4lwtst2FkeBw=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.4.0/Treekey-1.4.0.zip" length="13062480" type="application/octet-stream" sparkle:edSignature="W5lh9khFWntV48vk5dukRvf2jgo6pFE8SHBEOYeuSpzfpF0PSWNVLDHdWjS5im8/7OBM0yyoWn4lwtst2FkeBw=="/>
         </item>
         <item>
             <title>1.3.2</title>
@@ -40,9 +40,9 @@
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.3.2/Treekey-1.3.2.zip" length="9970718" type="application/octet-stream" sparkle:edSignature="ZawOCY8WWKBiUyfxvpCD0chEN7LGhF29hgUYvdqAYCuUqz5j/7V9dkEsMa+N22BLY4qDXeqY48k2zGb2/IeTDg=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey-1.3.2.zip" length="9970718" type="application/octet-stream" sparkle:edSignature="ZawOCY8WWKBiUyfxvpCD0chEN7LGhF29hgUYvdqAYCuUqz5j/7V9dkEsMa+N22BLY4qDXeqY48k2zGb2/IeTDg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.3.2/Treekey14-13.delta" sparkle:deltaFrom="13" length="1175206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2TeWLsAnv8/WIX96LLawlGGqXZGv2y+juDMzymawcCL/BDI864kD6U6AlXs5goLNW4O/mrOnoRXQcD4NxPL6DA=="/>
+                <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey14-13.delta" sparkle:deltaFrom="13" length="1175206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2TeWLsAnv8/WIX96LLawlGGqXZGv2y+juDMzymawcCL/BDI864kD6U6AlXs5goLNW4O/mrOnoRXQcD4NxPL6DA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -51,7 +51,7 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/maxmealing/treekey-releases/releases/download/v1.3.2/Treekey-1.3.1.zip" length="9932614" type="application/octet-stream" sparkle:edSignature="kWHbiWuz5nNznf+FX/7ORaFl7EiUY9JMmZz8GklWgClTLsxL7/BbnpIPqObpHFG63FVwOadycNQNbpXih8ryAg=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey-1.3.1.zip" length="9932614" type="application/octet-stream" sparkle:edSignature="kWHbiWuz5nNznf+FX/7ORaFl7EiUY9JMmZz8GklWgClTLsxL7/BbnpIPqObpHFG63FVwOadycNQNbpXih8ryAg=="/>
         </item>
     </channel>
 </rss>
