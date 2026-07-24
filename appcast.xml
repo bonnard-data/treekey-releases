@@ -3,6 +3,14 @@
     <channel>
         <title>Treekey</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Fri, 24 Jul 2026 22:27:07 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.7.0/Treekey-1.7.0.zip" length="15151426" type="application/octet-stream" sparkle:edSignature="FOfNUfB7pVcodQuQ9IZ85JVp2gdXqdp23ElkoKBAToi7GMOuDsX9+2Yq1TirAgssGQoIX1hF8PoflUm88sj8Bg=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Wed, 22 Jul 2026 13:30:54 +0200</pubDate>
             <sparkle:version>23</sparkle:version>
