@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Treekey</title>
+        <item>
+            <title>1.8.0</title>
+            <pubDate>Tue, 04 Aug 2026 13:15:00 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.8.0/Treekey-1.8.0.zip" length="20567702" type="application/octet-stream" sparkle:edSignature="kg5LNTNhmOrMIys9qLKu0QU5OX5pz2u0XlcX7t6Kby12BktmbYwFXQXL5pFfgadvwrLJNWfgjP/DgK8nnsoxDA=="/>
+        </item>
+        <item>
+            <title>1.7.3</title>
+            <pubDate>Tue, 04 Aug 2026 12:30:00 +0200</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.7.3/Treekey-1.7.3.zip" length="15854300" type="application/octet-stream" sparkle:edSignature="QnmxHCiTIC3bau2szZtXFzJk6HvpclyDmhrCVbMI2+v/9blzij8t13a6v7tlO11ms0UV7irUhSe5ChHel3T2Dw=="/>
+        </item>
+        <item>
+            <title>1.7.2</title>
+            <pubDate>Tue, 28 Jul 2026 14:17:46 +0200</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.7.2/Treekey-1.7.2.zip" length="15444518" type="application/octet-stream" sparkle:edSignature="kZ3l5z+QoDwQpVZciFEEM6Mb8VU1YltdKxxJGkpuJENpXUUH0j0nDGFeUfpie0zvq77YhdgRmPU7xBTHFuRWBQ=="/>
+        </item>
+        <item>
+            <title>1.7.1</title>
+            <pubDate>Sat, 25 Jul 2026 23:54:14 +0200</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.7.1/Treekey-1.7.1.zip" length="15239113" type="application/octet-stream" sparkle:edSignature="D134nA4i5gB8TyczbqqtWEOSsYrAEM4qq4IsTEer/cYMGS48KfH+DiU4R1DIGlMPhReHrU1WUtv8A/Ka7lcjBw=="/>
+        </item>
+        <item>
+            <title>1.7.0</title>
+            <pubDate>Fri, 24 Jul 2026 22:27:07 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.7.0/Treekey-1.7.0.zip" length="15151426" type="application/octet-stream" sparkle:edSignature="FOfNUfB7pVcodQuQ9IZ85JVp2gdXqdp23ElkoKBAToi7GMOuDsX9+2Yq1TirAgssGQoIX1hF8PoflUm88sj8Bg=="/>
+        </item>
+        <item>
+            <title>1.5.1</title>
+            <pubDate>Wed, 22 Jul 2026 13:30:54 +0200</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.5.1/Treekey-1.5.1.zip" length="13548534" type="application/octet-stream" sparkle:edSignature="qTRqMsVTK9lY41U8RT7RN+wyR8S8czL9OIVoAjhcRVEvZnN2x0T733Kt9JadGzidSCgVLaCtgyqnBMRDQwKhCA=="/>
+        </item>
+        <item>
+            <title>1.5.0</title>
+            <pubDate>Tue, 21 Jul 2026 23:21:12 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.5.0/Treekey-1.5.0.zip" length="13543401" type="application/octet-stream" sparkle:edSignature="eAmr7Fu+FWIdCWAwpArWK+ciyAjVciOCeHy1CtkRG6Xc3mYQKSv26AZdgt/VMmhyz60DlTGRwQHyH7t4e5j5Bw=="/>
+        </item>
+        <item>
+            <title>1.4.1</title>
+            <pubDate>Mon, 20 Jul 2026 21:05:00 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.4.1/Treekey-1.4.1.zip" length="13077185" type="application/octet-stream" sparkle:edSignature="Rqf9p20r69P+f5YrwXDh2xyprA7WKjxEp5H6JGwQhm3fWYzjdtiGyugESk83iYjEZ66yQl87TC8OhrooiaQNDQ=="/>
+        </item>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Mon, 20 Jul 2026 14:35:11 +0200</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.4.0/Treekey-1.4.0.zip" length="13062480" type="application/octet-stream" sparkle:edSignature="W5lh9khFWntV48vk5dukRvf2jgo6pFE8SHBEOYeuSpzfpF0PSWNVLDHdWjS5im8/7OBM0yyoWn4lwtst2FkeBw=="/>
+        </item>
+        <item>
+            <title>1.3.2</title>
+            <pubDate>Sat, 11 Jul 2026 16:32:32 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey-1.3.2.zip" length="9970718" type="application/octet-stream" sparkle:edSignature="ZawOCY8WWKBiUyfxvpCD0chEN7LGhF29hgUYvdqAYCuUqz5j/7V9dkEsMa+N22BLY4qDXeqY48k2zGb2/IeTDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey14-13.delta" sparkle:deltaFrom="13" length="1175206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2TeWLsAnv8/WIX96LLawlGGqXZGv2y+juDMzymawcCL/BDI864kD6U6AlXs5goLNW4O/mrOnoRXQcD4NxPL6DA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.3.1</title>
+            <pubDate>Sat, 11 Jul 2026 12:43:21 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.3.2/Treekey-1.3.1.zip" length="9932614" type="application/octet-stream" sparkle:edSignature="kWHbiWuz5nNznf+FX/7ORaFl7EiUY9JMmZz8GklWgClTLsxL7/BbnpIPqObpHFG63FVwOadycNQNbpXih8ryAg=="/>
+        </item>
+    </channel>
+</rss>
