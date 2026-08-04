@@ -5,10 +5,10 @@
         <item>
             <title>1.8.0</title>
             <pubDate>Tue, 04 Aug 2026 13:15:00 +0200</pubDate>
-            <sparkle:version>31</sparkle:version>
+            <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.8.0/Treekey-1.8.0.zip" length="20574347" type="application/octet-stream" sparkle:edSignature="K08XGck44G2Ij6RqI9K/JRYO+l6+kaiBd1H9TCvnMkA7hzlJ9n7BJYksYLEgjtH77gLtjreMW53hrAHfAwrIBg=="/>
+            <enclosure url="https://github.com/bonnard-data/treekey-releases/releases/download/v1.8.0/Treekey-1.8.0.zip" length="20575565" type="application/octet-stream" sparkle:edSignature="/1oAYMmO2YDCg4NDYtjmGDbB0e/Uwgwve26giyn5abL/1HyUmM+qXOj/HtRO+Aq+Kux1zrOdP+UQvt7w1jv1DQ=="/>
         </item>
         <item>
             <title>1.7.3</title>
